@@ -1,7 +1,5 @@
 # Galactic Signal Decoder
 
-## Resonance
-
 When I first opened the website, I immediately tested its interface. It looked like a game with two attack buttons and a third button for healing.
 
 ![Galactic Signal Decoder — main game interface](wu-markdown-assets/galactic-signal-decoder/image1.png)

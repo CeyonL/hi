@@ -158,4 +158,4 @@ unshuffle()
 
 ## Conclusion
 
-The solve path was to recover the shuffle seed, construct inputs that became the intended template expressions after shuffling, and work around the blacklist to reach Python objects through Flask’s g object. This led to a directory listing and a file-read payload. The main takeaway is that a predictable shuffle and a keyword blacklist do not make user-controlled template evaluation safe. The final screenshot is from the local instance and shows `PTITHCM{default_fake_flag}`; it does not establish the original challenge’s flag value.
+The solve path was to recover the shuffle seed, construct inputs that became the intended template expressions after shuffling, and work around the blacklist to reach Python objects through Flask’s g object. This led to a directory listing and a file-read payload. The main takeaway is that a predictable shuffle and a keyword blacklist do not make user-controlled template evaluation safe.

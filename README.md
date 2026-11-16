@@ -5,6 +5,9 @@
 | Galactic Invaders | Web / Client-side | [Read write-up](Galactic%20Invaders.md) |
 | NetOps | Web / SQL injection & Command injection | [Read write-up](NetOps.md) |
 | Galactic Signal Decoder | Web / SSTI & Predictable shuffle | [Read write-up](Galactic%20Signal%20Decoder.md) |
+| File Upload | Web / File upload | [Read write-up](File%20Upload.md) |
+| CMDi | Web / Command & argument injection | [Read write-up](CMDi.md) |
+| Path Traversal | Web / Directory traversal & symlinks | [Read write-up](Path%20Traversal.md) |
 
 Screenshots are included in `wu-markdown-assets/` and linked using relative paths.
 
